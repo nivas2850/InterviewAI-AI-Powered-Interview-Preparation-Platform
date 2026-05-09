@@ -1,6 +1,10 @@
 AI-Powered Interview Preparation Platform
 1. Project Title
 InterviewAI — AI-Powered Interview Preparation Platform
+Workflow:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2fa3c598-9f4b-4790-bb01-aea5613b3c58" />
+
+<img width="1200" height="1496" alt="image" src="https://github.com/user-attachments/assets/b4f86ae3-14bf-44c8-aa34-87b4a4724718" />
 
 3. Project Description
 InterviewAI is a full-stack GenAI platform that helps job seekers prepare for interviews by analyzing their resume and target job description. Users can upload their resume, paste a job description, and receive AI-generated technical, behavioral, and role-specific interview questions with suggested answers. The platform also tracks interview preparation history and provides performance insights through an analytics dashboard.
@@ -113,6 +117,9 @@ interviewai-platform/
 ├── README.md
 ├── architecture.png
 └── screenshots/
+Architecture of this project:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ba230f3-f273-4435-8072-fc7b617a3bce" />
+
 6. Database Tables
 users
 CREATE TABLE users (
@@ -275,8 +282,6 @@ Interview performance scoring
 Video interview practice
 Multi-language support
 
-System Workflow:
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a64b9e4-d9b5-412f-8633-cd4a91bdd3d6" />
+<img width="5717" height="3440" alt="image" src="https://github.com/user-attachments/assets/5bea7db2-3ce1-432f-b803-d91ff69467fd" />
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/352dc752-ffd3-4b24-bbf7-0a1cb6b74ec0" />
 
